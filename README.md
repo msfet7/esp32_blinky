@@ -3,7 +3,7 @@
 This example code was written for esp32 microcontroller. For the other hardware I used
 two LEDs and one push button.
 
-# Hardware
+## Hardware
 The connections are showed at the diagram below:
 ```
 ESP32      Hardware      Config
