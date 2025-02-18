@@ -1,7 +1,6 @@
 # Blinky using freeRTOS
 ## Description
-This example code was written for esp32 microcontroller. For the other hardware I used
-two LEDs and one push button.
+This code is just a simple blinky program made with tasks in freeRTOS.
 
 ## Hardware
 The connections are showed at the diagram below:
